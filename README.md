@@ -1,6 +1,12 @@
 # -Udemy-clone-ReactJs
 React Js ile udemy clone 
-
+ 
+ ************************
+ 
+  deploy:    https://lovely-syrniki-143126.netlify.app
+ 
+ *********************
+ 
 ![HomePage-1](https://github.com/onderyekebag/-Udemy-clone-ReactJs/assets/114080235/57bb5469-7d71-4f90-a6e3-5935d65e67ba)
 
 *****************************************************************************************
